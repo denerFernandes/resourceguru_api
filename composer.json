@@ -1,0 +1,15 @@
+{
+    "name": "denerfernandes/resourceguru",
+    "description": "Simple package in php for integration with Resource Guru App Api",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Dener Fernandes",
+            "email": "dener.php@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
