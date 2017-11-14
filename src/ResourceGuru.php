@@ -4,10 +4,9 @@
  * (c) Dener Fernandes <dener.php@gmail.com>
  * https://github.com/denerFernandes
  *
- * This source file is subject to the MIT license that is bundled
+ * This source file is subject to the GNU license that is bundled
  * with this source code in the file LICENSE.
  */
-
 namespace ResourceGuru;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
