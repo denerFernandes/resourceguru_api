@@ -11,5 +11,5 @@
             "email": "dener.php@gmail.com"
         }
     ],
-    "minimum-stability": "beta"
+    "minimum-stability": "stable"
 }
